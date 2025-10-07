@@ -1,2 +1,1 @@
-# TimeWarp
-A personal website
+# Hi, I'm Marie
