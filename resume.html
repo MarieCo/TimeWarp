@@ -122,7 +122,9 @@
       document.getElementById("year").textContent = new Date().getFullYear();
     </script>
     <script>
-      lucide.createIcons();
+      window.addEventListener("DOMContentLoaded", function () {
+        lucide.createIcons();
+      });
     </script>
   </body>
 </html>
